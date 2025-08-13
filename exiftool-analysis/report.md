@@ -1,65 +1,65 @@
-\# ExifTool Metadata Analysis Report
+# ExifTool Metadata Analysis Report
 
-\## 🔎 Image Overview
+## 🔎 Image Overview
 
-\- Filename: Forensics-image.png
+- Filename: Forensics-image.png
 
-\- File Size: 1144 kb
+- File Size: 1144 kb
 
-\- Image Dimensions: 1439x753
-
-
-\## 📷 Camera Info
-
-\- Make: Hewlett-Packard
-
-\- Model: IEC 61966-2.1 Default RGB colour space - sRGB
+- Image Dimensions: 1439x753
 
 
+## 📷 Camera Info
 
-\## 🌍 Geolocation (If Available)
+- Make: Hewlett-Packard
 
-\- GPS Lat/Long: None
-
-\- Maps Link: None
+- Model: IEC 61966-2.1 Default RGB colour space - sRGB
 
 
 
-\## 🕐 Timestamps
+## 🌍 Geolocation (If Available)
 
-\- DateTimeOriginal: 2021:03:05 05:59:37+01:00
+- GPS Lat/Long: None
 
-\- ModifyDate: 2021:04:21 11:06:39
-
-
-
-\## 📝 Software/Comments
-
-\- Editing Software: GIMP 2.10.24
-
-\- Comment Field:
+- Maps Link: None
 
 
 
-\## 🔐 SHA256 Hash
+## 🕐 Timestamps
 
-\- **`efecb358e1ade19d08acf1126b846971982fb8b3a82f67bdf7401a8972fd241a`**
+- DateTimeOriginal: 2021:03:05 05:59:37+01:00
 
-
-
-\## 🧠 Inference
-
-\- The image seemed to be edited
-
-\- The software used is Gimp 2.10
-
-\- The creation date and modified date is very off
-
-\- The history of software agent and the history modification dates also shows that it was edited
+- ModifyDate: 2021:04:21 11:06:39
 
 
 
-\## 🖼️ Screenshots
+## 📝 Software/Comments
+
+- Editing Software: GIMP 2.10.24
+
+- Comment Field:
+
+
+
+## 🔐 SHA256 Hash
+
+- **`efecb358e1ade19d08acf1126b846971982fb8b3a82f67bdf7401a8972fd241a`**
+
+
+
+## 🧠 Inference
+
+- The image seemed to be edited
+
+- The software used is Gimp 2.10
+
+- The creation date and modified date is very off
+
+- The history of software agent and the history modification dates also shows that it was edited
+
+
+
+## 🖼️ Screenshots
 
 ```bash
 File Name                       : Forensics-image.png
